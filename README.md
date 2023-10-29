@@ -1,2 +1,2 @@
-<a href= "https://alessandroespinola.github.io/projeto-barbearia-2.0/" > Projeto - Escola de Musica </a> 
+<a href= "https://alessandroespinola.github.io/Projeto-Escola-de-Musica/" > Projeto - Escola de Musica </a> 
 
